@@ -1,4 +1,4 @@
-# robofriends-redux
+# robofriend_app-redux
 
 This is a modified version of the [robofriends](https://github.com/Nelsonmbigili/robofriend_app.git).
 
